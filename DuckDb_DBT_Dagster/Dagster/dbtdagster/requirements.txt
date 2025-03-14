@@ -1,0 +1,8 @@
+dagster
+dbt
+duckdb
+# Add other necessary dependencies here
+dagster-webserver
+dagster-dbt
+dbt-duckdb
+dagster-duckdb 
